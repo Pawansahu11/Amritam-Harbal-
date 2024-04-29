@@ -26,9 +26,19 @@ MLM User Module:
 🔒 Logout: Securely logout from the app with the dedicated logout button.
 
 # 📲 Snapshots
-**Splash Screen**
+**Splash Screen, Login page **
 
-![Amritam-Harba-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/1877a8df-36aa-4c37-a4f2-7f109dca2be2)
+![Amritam-Harba-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/846cf0a6-f477-403f-b7cf-d678ea546516)
+
+**Profile, Home, Search, category List page **
+
+![Amritam-Harba-ss-2](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/48f3eaab-32b8-4ff6-8990-b5e9d0113278)
+
+**Filter , Cart, Checkout,Order successful page **
+
+![Amritam-Harba-ss-3](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/d7c108f3-fea4-4149-8730-d58bf392b2ef)
+
+
 
 
 
@@ -39,7 +49,11 @@ Download the Amritam Herbal app on your Android device.
 Run the app.
 **For eCommerce User**
 If SignUp is a new User SignUp.
-And Login OTP is 123456 .
+And Login Your Mobile Number and OTP is 123456 .
+
+**For MLM User**
+If SignUp is a new User SignUp.
+And Login for User ID password.
 
 Contributors 🙌
 Pawan Kumar.
