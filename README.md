@@ -25,11 +25,19 @@ MLM User Module:
 📦 Stock Requests: Enable users to request products for stock and issue products for their downline team.
 🔒 Logout: Securely logout from the app with the dedicated logout button.
 
+# 📲 Snapshots
+**Splash Screen**
+
+
 Installation 💻
 To run the Amritam Herbal Android app locally:
 
-Download the Amritam Herbal.apk on your Android device.
+Download the Amritam Herbal app on your Android device.
 Run the app.
+**For eCommerce User**
+If SignUp is a new User SignUp.
+And Login OTP is 123456 .
+
 Contributors 🙌
 Pawan Kumar.
 Janak Nishad.
