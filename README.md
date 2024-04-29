@@ -27,7 +27,9 @@ MLM User Module:
 
 # 📲 Snapshots
 **Splash Screen**
-![1  Spalsh screen](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/9aa8f96d-013e-483d-9ca3-28169c21961c)
+
+![Amritam-Harba-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/1877a8df-36aa-4c37-a4f2-7f109dca2be2)
+
 
 
 Installation 💻
