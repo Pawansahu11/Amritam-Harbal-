@@ -25,23 +25,20 @@ MLM User Module:
 📦 Stock Requests: Enable users to request products for stock and issue products for their downline team.
 🔒 Logout: Securely logout from the app with the dedicated logout button.
 
-# 📲 Snapshots
-**Splash Screen, Login page **
+# 📲 Snapshots Of eCommerce module
+**Splash Screen Page, Login page, Home page skeleton text loader **
 
 ![Amritam-Harba-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/77d51ae1-365a-45d8-bda7-be31e78dd192)
 
 
-**Profile, Home, Search, category List page **
+**Profile page, Home page, Search component, category List page **
 
 ![Amritam-Harba-ss-2](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/749b92d4-11a1-4abe-a862-6039ff2e9fc8)
 
 
-**Filter, Cart, Checkout, Order successful page, Orderlist **
+**Filter modal component, Cart page, Checkout page, Order successful page, Orderlist page **
 
 ![Amritam-Harba-ss-3](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/e9e6ece7-d7ef-4830-9bf3-50eed1c3113c)
-
-
-
 
 
 
@@ -53,7 +50,7 @@ Download the Amritam Herbal app on your Android device.
 Run the app.
 **For eCommerce User**
 If SignUp is a new User SignUp.
-And Login Your Mobile Number and OTP is 123456 .
+And Login Your Mobile Number and OTP is 123456.
 
 **For MLM User**
 If SignUp is a new User SignUp.
