@@ -1,5 +1,5 @@
 # Amreetam Herbal Android App 🌿📱
-Welcome to the official repository for the Amritam Herbal Android app! This project aims to provide users with a seamless e-commerce experience while incorporating additional features tailored for multi-level marketing (MLM) users. Built using Ionic Angular for UI development and leveraging the Ionic framework, Capacitor plugin, and various third-party NPM plugins, this app combines the power of web technologies with native functionality to deliver a robust mobile application.
+Welcome to the official repository for the Amreetam Herbal Android app! This project aims to provide users with a seamless e-commerce experience while incorporating additional features tailored for multi-level marketing (MLM) users. Built using Ionic Angular for UI development and leveraging the Ionic framework, Capacitor plugin, and various third-party NPM plugins, this app combines the power of web technologies with native functionality to deliver a robust mobile application.
 
 Features 🚀
 eCommerce Module:
@@ -44,9 +44,9 @@ MLM User Module:
 
 
 Installation 💻
-To run the Amritam Herbal Android app locally:
+To run the Amreetam Herbal Android app locally:
 
-Download the Amritam Herbal app on your Android device.
+Download the Amreetam Herbal app on your Android device.
 Run the app.
 **For eCommerce User**
 If SignUp is a new User SignUp.
@@ -62,6 +62,6 @@ Janak Nishad.
 License 📄
 This project is licensed under the MIT License.
 
-Thank you for considering the Amritam Herbal Android app! For any inquiries or feedback, please reach out to us.
+Thank you for considering the Amreetam Herbal Android app! For any inquiries or feedback, please reach out to us.
 
 📫 How to reach me- Email: pawansahu@gmail.com Linkedin: https://www.linkedin.com/in/pawan-kumar-861778229 Contact no. :+91 9827295995 
