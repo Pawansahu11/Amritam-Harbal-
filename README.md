@@ -1,4 +1,4 @@
-# Amritam Herbal Android App 🌿📱
+# Amreetam Herbal Android App 🌿📱
 Welcome to the official repository for the Amritam Herbal Android app! This project aims to provide users with a seamless e-commerce experience while incorporating additional features tailored for multi-level marketing (MLM) users. Built using Ionic Angular for UI development and leveraging the Ionic framework, Capacitor plugin, and various third-party NPM plugins, this app combines the power of web technologies with native functionality to deliver a robust mobile application.
 
 Features 🚀
