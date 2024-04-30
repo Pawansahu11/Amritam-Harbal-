@@ -25,7 +25,7 @@ MLM User Module:
 📦 Stock Requests: Enable users to request products for stock and issue products for their downline team.
 🔒 Logout: Securely logout from the app with the dedicated logout button.
 
-# 📲 Snapshots Of eCommerce module
+# 📲 Snapshots Of the eCommerce module
 **Splash Screen Page, Login page, Home page skeleton text loader **
 
 ![Amritam-Harba-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/77d51ae1-365a-45d8-bda7-be31e78dd192)
@@ -40,6 +40,17 @@ MLM User Module:
 
 ![Amritam-Harba-ss-3](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/e9e6ece7-d7ef-4830-9bf3-50eed1c3113c)
 
+
+# 📲 Snapshots Of the MLM module
+
+**Login page, SignUp page, Dashboard page, Income report, My income **
+
+![Amritam-Harba-mlm-ss-1](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/ae9ffefa-9665-4559-90f7-24acc1c6de2e)
+
+
+**Tree & Downline page, User info model, Sale list page, Sale detail model, Product request page, profile menus **
+
+![Amritam-Harba-mlm-ss-2-](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/b2d4bfe3-3e6a-4aa1-b4c6-abff161b608c)
 
 
 
