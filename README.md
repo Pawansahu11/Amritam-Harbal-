@@ -53,7 +53,6 @@ MLM User Module:
 ![Amritam-Harba-mlm-ss-2-](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/b2d4bfe3-3e6a-4aa1-b4c6-abff161b608c)
 
 
-![1280-640](https://github.com/Pawansahu11/Amritam-Harbal-/assets/140729586/5e6f1e79-298b-4c3f-8bec-6c5b6fa55de4)
 
 
 
