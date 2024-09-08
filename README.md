@@ -58,7 +58,7 @@ MLM User Module:
 
 Installation 💻
 To run the Amreetam Herbal Android app locally:
-App link:- https://github.com/Pawansahu11/Amritam-Harbal-/blob/main/Amritam%20Herbal.zip
+App link:- (https://play.google.com/store/apps/details?id=app.amritamherbal.com)
 Download the Amreetam Herbal app on your Android device.
 Run the app.
 **For eCommerce User**
