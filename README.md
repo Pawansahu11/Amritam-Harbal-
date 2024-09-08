@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 Thank you for considering the Amreetam Herbal Android app! For any inquiries or feedback, please reach out to us.
 
-📫 How to reach me- Email: pawansahu@gmail.com Linkedin: https://www.linkedin.com/in/pawan-kumar-861778229 Contact no. :+91 9827295995 
+📫 How to reach me- Email: pawansahu1109@gmail.com Linkedin: https://www.linkedin.com/in/pawan-kumar-861778229 Contact no. :+91 9827295995 
